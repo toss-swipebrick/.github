@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 https://swipebrick.vercel.app/
-<img width="1000" height="1000" alt="크기2" src="https://github.com/user-attachments/assets/d74e67c0-981d-4a1e-933d-a38f0ed0e685" />
+
+<img width="600" height="600" alt="로고2" src="https://github.com/user-attachments/assets/aa5b4f0e-f49c-4a84-a7a2-9d497e7600a5" />
 
 <!--
 
